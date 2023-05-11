@@ -1,0 +1,47 @@
+html {
+    background-color:rgb(255, 238, 224);
+    font-family: 'Montserrat', sans-serif;
+    }
+    h1 {
+        color:rgb(0, 0, 0);
+        font-size: 35px;
+        text-align:center;
+    } 
+    h2 {
+        color:rgb(0, 0, 0);
+        font-size:23px;
+        text-align:center;
+    }    
+    h3 {
+        color:rgb(0, 0, 0);
+        font-size:17px;
+        text-align: center;
+        margin-top: 0;
+        margin-bottom: 0;
+    }
+    .h3-bottom {
+            color:rgb(0, 0, 0);
+            font-size:17px;
+            text-align: center;
+            margin-top: 1;
+            margin-bottom: 0;
+    }
+    li {
+        line-height:1.4;
+    }
+    ul {
+        display:inline-block; 
+        text-align:left;
+    }
+    figcaption.bold{
+        font-style: italic;
+    }
+    .img-style1 {
+        width: 320px;
+        height: 300px;
+        display: inline-block;
+    }
+    .img-style1:hover {
+        transform: scale(1.2)
+    }
+
